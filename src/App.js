@@ -8,12 +8,14 @@ export default function App() {
       <p>lorem</p>
 
       <>
+        const sideLength = "200px"; 
+  
         <img 
             src="./../images/football.com" 
             alt="football"
             role="Image of a ball"  
-            height={} 
-            width={}
+            height={sideLength} 
+            width={sideLength}
         />
 
         <h1>Liste de la Team</h1>
