@@ -15,8 +15,7 @@ export default function App() {
             alt="football"
             role="Image of a ball"  
             height={sideLength} 
-            width={sideLength}
-        />
+            width={sideLength} />
 
         <h1>Liste de la Team</h1>
         <p>Cette liste a pour but de lister les jouers de cette ligue des champions.</p>
